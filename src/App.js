@@ -10,8 +10,7 @@ function App() {
   return (
     <div className="App">
       <h1 style={styleObj}>Hello Jenkins</h1>
-      <p>我叫布罗利</p>
-      <p>我是一名FE</p>
+      <p>我叫布罗利(Brolly)</p>
     </div>
   );
 }
